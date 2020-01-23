@@ -10,4 +10,4 @@ Project based on the example: [Laravel 5.8 Facebook Login with Socialite](https:
 - Copy ```.env.example``` file to ```.env``` and edit database credentials there
 - Run ```php artisan migrate```
 - Open your terminal in the folder and run ```php artisan serve```
-- Open your browser and type ```http://127.0.0.1:8000/site-register```
+- Open your browser and type ```http://127.0.0.1:8000/```
